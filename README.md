@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My portfolio **
 
-- 🌱 I’m currently learning *Typescript**
+- 🌱 I’m currently learning **Typescript**
 
 - 🤝 I’m looking for help with **the enviroment.**
 
