@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fabrizio Santandrea.</h1>
 <h3 align="center">I'm a passionate FullStack Developer</h3>
 
-- 🔭 I’m currently working on **Subi Que Te Llevo**
+- 🔭 I’m currently working on **My portfolio **
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning *Typescript**
 
 - 🤝 I’m looking for help with **the enviroment.**
 
